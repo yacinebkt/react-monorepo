@@ -1,0 +1,18 @@
+.container {
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 3rem;
+}
+
+.container a {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+}
+.container nav {
+  display: flex;
+  gap: 2rem;
+}
